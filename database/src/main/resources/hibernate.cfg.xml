@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.url">jdbc:postgresql://localhost:5432/aipclient</property>
+        <property name="connection.driver_class">org.postgresql.Driver</property>
+        <property name="connection.username">postgres</property>
+        <property name="connection.password">admin</property>
+        <property name="dialect">org.hibernate.dialect.PostgreSQL95Dialect</property>
+        <property name="format_sql">true</property>
+        <property name="show_sql">true</property>
+
+        <!-- DB schema will be updated if needed -->
+        <!-- <property name="hbm2ddl.auto">update</property> -->
+
+        <mapping class="by.aip.dao.model.Officer"/>
+        <mapping class="by.aip.dao.model.Client"/>
+        <mapping class="by.aip.dao.model.Contract"/>
+        <mapping class="by.aip.dao.model.Person"/>
+        <mapping class="by.aip.dao.model.Service"/>
+        <mapping class="by.aip.dao.model.Graphik"/>
+        <mapping class="by.aip.dao.model.GraphikAuditor"/>
+        <mapping class="by.aip.dao.model.Auditor"/>
+        <mapping class="by.aip.dao.model.Anketa"/>
+        <mapping class="by.aip.dao.model.Likvidaciya"/>
+        <mapping class="by.aip.dao.model.AnalyticCode"/>
+        <mapping class="by.aip.dao.model.AnalyticCodeDetail"/>
+        <mapping class="by.aip.dao.model.Service"/>
+        <mapping class="by.aip.dao.model.Manager"/>
+        <mapping class="by.aip.dao.model.Director"/>
+        <mapping class="by.aip.dao.OfficerDao"/>
+
+    </session-factory>
+</hibernate-configuration>

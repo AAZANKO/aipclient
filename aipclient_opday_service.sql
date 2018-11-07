@@ -1,0 +1,5 @@
+INSERT INTO opday.service (id, name, shortname, status, service_date_close, service_date_open) VALUES (1, 'Проведение аудиторской проверки', 'Аудит', 1, '1900-01-01 00:00:00.000000', '2010-10-14 00:00:00.000000');
+INSERT INTO opday.service (id, name, shortname, status, service_date_close, service_date_open) VALUES (2, 'Оказание консультационных услуг', 'Консультация', 1, '1900-01-01 00:00:00.000000', '2010-10-14 00:00:00.000000');
+INSERT INTO opday.service (id, name, shortname, status, service_date_close, service_date_open) VALUES (3, 'Международный стандарт финансовой отчетности', 'МСФО', 1, '1900-01-01 00:00:00.000000', '2010-10-14 00:00:00.000000');
+INSERT INTO opday.service (id, name, shortname, status, service_date_close, service_date_open) VALUES (4, 'Проверка бухгалтерского учета', 'Бух.Учет', 1, '1900-01-01 00:00:00.000000', '2010-10-14 00:00:00.000000');
+INSERT INTO opday.service (id, name, shortname, status, service_date_close, service_date_open) VALUES (5, 'Проверка налогов', 'Налоги', 1, '1900-01-01 00:00:00.000000', '2010-10-14 00:00:00.000000');

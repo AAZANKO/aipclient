@@ -1,0 +1,5 @@
+INSERT INTO opday.auditor (id, first_name, last_name, middle_name, auditortype, auditorcode, date_prinyat, date_uvolen, status, officer_id) VALUES (1, 'Климов', 'Андрей', 'Владимирович', 1, 3, '2018-01-01', '1900-01-01', 1, 1);
+INSERT INTO opday.auditor (id, first_name, last_name, middle_name, auditortype, auditorcode, date_prinyat, date_uvolen, status, officer_id) VALUES (2, 'Тарасевич', 'Дмитрий', 'Владимирович', 1, 3, '2017-10-01', '1900-01-01', 1, 1);
+INSERT INTO opday.auditor (id, first_name, last_name, middle_name, auditortype, auditorcode, date_prinyat, date_uvolen, status, officer_id) VALUES (3, 'Иванько', 'Анастасия', 'Игоревна', 1, 3, '2016-10-01', '1900-01-01', 1, 1);
+INSERT INTO opday.auditor (id, first_name, last_name, middle_name, auditortype, auditorcode, date_prinyat, date_uvolen, status, officer_id) VALUES (4, 'Прокопенко', 'Ольга', 'Витальевна', 1, 3, '2015-12-20', '1900-01-01', 1, 1);
+INSERT INTO opday.auditor (id, first_name, last_name, middle_name, auditortype, auditorcode, date_prinyat, date_uvolen, status, officer_id) VALUES (5, 'Смирнов', 'Максим', 'Александрович', 1, 3, '2018-12-20', '1900-01-01', 1, 1);

@@ -1,0 +1,3 @@
+INSERT INTO opday.manager (officer_id, phone, pass, address, e_mail, commment) VALUES (2, '+375(29)223-65-78', 'MP2347685', 'г.Минск, ул.Сурганова, д.30, кв. 106', 'sdelnikova@gmail.com', 'хороший менеджер');
+INSERT INTO opday.manager (officer_id, phone, pass, address, e_mail, commment) VALUES (3, '+375(25)253-12-48', 'MP25476865', 'г.Минск, ул.Скрыганова, д.13, кв. 20', 'abramovich@gmail.com', 'красивый менеджер');
+INSERT INTO opday.manager (officer_id, phone, pass, address, e_mail, commment) VALUES (4, '+375(44)222-84-28', 'MP25476865', 'г.Минск, ул.Тимирязева, д.56д, кв. 47', 'paschchenya@gmail.com', 'опытный менеджер');

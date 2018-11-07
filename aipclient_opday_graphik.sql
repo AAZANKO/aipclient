@@ -1,0 +1,6 @@
+INSERT INTO opday.graphik (id, contract_id, client_id, datebegin, dateend, satage, inspector_id, status, officer_id) VALUES (1, 1, 1, '2018-12-01', '2019-02-01', 1, 1, 1, 2);
+INSERT INTO opday.graphik (id, contract_id, client_id, datebegin, dateend, satage, inspector_id, status, officer_id) VALUES (2, 1, 1, '2019-04-01', '2019-05-01', 2, 1, 1, 2);
+INSERT INTO opday.graphik (id, contract_id, client_id, datebegin, dateend, satage, inspector_id, status, officer_id) VALUES (3, 1, 1, '2019-09-01', '2019-10-01', 3, 1, 1, 2);
+INSERT INTO opday.graphik (id, contract_id, client_id, datebegin, dateend, satage, inspector_id, status, officer_id) VALUES (4, 2, 3, '2018-10-01', '2018-10-01', 1, 2, 0, 3);
+INSERT INTO opday.graphik (id, contract_id, client_id, datebegin, dateend, satage, inspector_id, status, officer_id) VALUES (5, 2, 3, '2018-12-01', '2019-02-01', 2, 2, 0, 3);
+INSERT INTO opday.graphik (id, contract_id, client_id, datebegin, dateend, satage, inspector_id, status, officer_id) VALUES (6, 3, 4, '2018-12-01', '2019-02-01', 1, 3, 1, 4);

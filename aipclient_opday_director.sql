@@ -1,0 +1,1 @@
+INSERT INTO opday.director (officer_id, phone, unp, address, e_mail) VALUES (1, '+375(29)369-69-96', '205783246', 'г.Минск, ул.Некрасова, д.7, кв. 503', 'info@aip.by');

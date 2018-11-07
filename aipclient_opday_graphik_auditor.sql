@@ -1,0 +1,16 @@
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (1, 1, 1, '', 2, '2018-05-04 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (2, 1, 2, '', 2, '2018-05-04 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (3, 1, 3, '', 2, '2018-05-04 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (4, 2, 1, '', 2, '2018-08-23 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (5, 2, 3, '', 2, '2018-08-23 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (6, 2, 5, '', 2, '2018-08-23 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (7, 3, 2, '', 3, '2018-05-23 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (8, 3, 3, '', 3, '2018-05-23 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (9, 3, 5, '', 3, '2018-05-23 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (10, 4, 1, '', 4, '2018-05-02 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (11, 4, 2, '', 4, '2018-05-02 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (12, 4, 3, '', 4, '2018-05-02 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (13, 4, 4, '', 4, '2018-05-02 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (14, 4, 5, '', 4, '2018-05-02 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (15, 6, 1, '', 2, '2018-04-15 00:00:00.000000', 1);
+INSERT INTO opday.graphik_auditor (id, graphik_id, auditor_id, comment, officer_id, date, status) VALUES (16, 6, 2, '', 2, '2018-04-15 00:00:00.000000', 1);

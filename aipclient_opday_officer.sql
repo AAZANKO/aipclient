@@ -1,0 +1,7 @@
+INSERT INTO opday.officer (id, first_name, last_name, middle_name, officertype, officercode, date_prinyat, date_uvolen, status) VALUES (1, 'Клименкова', 'Ольга', 'Валерьевна', 1, 1, '2005-04-01', '1900-01-01', 1);
+INSERT INTO opday.officer (id, first_name, last_name, middle_name, officertype, officercode, date_prinyat, date_uvolen, status) VALUES (2, 'Сдельникова', 'Светлана', 'Юрьевна', 1, 2, '2015-03-01', '1900-01-01', 1);
+INSERT INTO opday.officer (id, first_name, last_name, middle_name, officertype, officercode, date_prinyat, date_uvolen, status) VALUES (3, 'Абрамович', 'Светлана', 'Владимировна', 1, 2, '2016-03-01', '1900-01-01', 1);
+INSERT INTO opday.officer (id, first_name, last_name, middle_name, officertype, officercode, date_prinyat, date_uvolen, status) VALUES (4, 'Пащеня', 'Светлана', 'Александровна', 1, 2, '2010-12-01', '1900-01-01', 1);
+INSERT INTO opday.officer (id, first_name, last_name, middle_name, officertype, officercode, date_prinyat, date_uvolen, status) VALUES (5, 'Герман', 'Татьяна', 'Александровна', 1, 3, '2011-12-01', '1900-01-01', 1);
+INSERT INTO opday.officer (id, first_name, last_name, middle_name, officertype, officercode, date_prinyat, date_uvolen, status) VALUES (6, 'Оскирко', 'Виктория', 'Владимировна', 1, 3, '2016-10-10', '1900-01-01', 1);
+INSERT INTO opday.officer (id, first_name, last_name, middle_name, officertype, officercode, date_prinyat, date_uvolen, status) VALUES (7, 'Каленова', 'Галина', 'Петровна', 1, 3, '2013-08-05', '1900-01-01', 1);

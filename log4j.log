@@ -1,0 +1,13 @@
+2018-11-07 15:22:51,224 INFO  - HHH000412: Hibernate Core {5.3.7.Final}
+2018-11-07 15:22:51,228 INFO  - HHH000206: hibernate.properties not found
+2018-11-07 15:22:51,668 INFO  - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2018-11-07 15:22:52,129 WARN  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-11-07 15:22:52,138 INFO  - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/aipclient]
+2018-11-07 15:22:52,139 INFO  - HHH10001001: Connection properties: {user=postgres, password=****}
+2018-11-07 15:22:52,139 INFO  - HHH10001003: Autocommit mode: false
+2018-11-07 15:22:52,143 INFO  - HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-11-07 15:22:52,296 INFO  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2018-11-07 15:22:52,546 INFO  - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2018-11-07 15:22:52,555 INFO  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@345f69f3
+2018-11-07 15:22:53,905 INFO  - HHH000397: Using ASTQueryTranslatorFactory
+2018-11-07 15:22:54,069 INFO  - HHH10001008: Cleaning up connection pool [jdbc:postgresql://localhost:5432/aipclient]
