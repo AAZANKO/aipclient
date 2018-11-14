@@ -21,13 +21,6 @@
     ArrayList<Officer> arrZakaz = (ArrayList<Officer>) request.getAttribute("officer");
 %>
         <H1>Hello</H1>
-<%--        <div>
-            <p>User name</p>
-            <p>${requestScope.officer.firstName}</p>
-            <p>${requestScope.officer.lastName}</p>
-            <p>${requestScope.officer.middleName}</p>
-            <p>${requestScope.officer.id}</p>
-        </div>--%>
         <c:if test="${officer != null}">
             <table
                     style="border-style: solid; border-width: 1px; width: 1400px; border-collapse: collapse;">
